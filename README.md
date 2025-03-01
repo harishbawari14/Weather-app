@@ -16,16 +16,14 @@ Exits the program when the user inputs 'q'.
 
 **Prerequisites:**
 
-Ensure you have the following installed before running the script:
-
-Python 3.x
-
-**Required Python packages:**
+****Required Python packages:****
    
    Ensure you have the following installed before running the script:
+    
     1.Python 3.x
 
    Required Python packages:
+    
      1.pywin32
 
      2.requests
